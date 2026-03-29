@@ -1,4 +1,4 @@
-#Welcome to my **personal Python learning journey**!
+# Welcome to my **personal Python learning journey**!
 
 This repository is where I **document everything I learn in Python** — from fundamentals to OOP, libraries, practice programs, mini projects, and my learning roadmap.  
 
