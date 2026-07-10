@@ -1,4 +1,4 @@
-#Data structures are used for storing and organizing data in a way that allows for efficient access and modification. Common data structures include lists, tuples, sets, dictionaries, and more complex structures like stacks, queues, linked lists, trees, and graphs. Each data structure has its own strengths and weaknesses, making them suitable for different types of applications.
+"""Data structures are used for storing and organizing data in a way that allows for efficient access and modification. Common data structures include lists, tuples, sets, dictionaries, and more complex structures like stacks, queues, linked lists, trees, and graphs. Each data structure has its own strengths and weaknesses, making them suitable for different types of applications."""
 
 # But we only focus on the most commonly used data structures in Python: lists, tuples, sets, and dictionaries.
 
