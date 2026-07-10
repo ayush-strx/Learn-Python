@@ -39,7 +39,7 @@
 
 ## 📦 Data Structures
 15. **Lists**
-    - Indexing, slicing, methods (`append`, `remove`, `sort`)
+    - List methods (`append`, `remove`, `sort`)
     - Nested lists (2D lists)
 16. **Tuples**
     - Immutable sequences
@@ -52,7 +52,7 @@
 ---
 
 ## 📑 String Handling
-19. **Indexing & Slicing**
+19. ** String Indexing & Slicing**
 20. **String Methods**
     - `upper()`, `lower()`, `split()`, `join()`, `replace()`
 21. **String Formatting**
