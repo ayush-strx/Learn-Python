@@ -59,7 +59,6 @@ a = greet("harry")
 
 # Now 'a' contains "hello harry"
 
-
 # -------------------------------
 # DEFAULT PARAMETER VALUE
 # -------------------------------
