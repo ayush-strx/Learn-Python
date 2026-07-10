@@ -39,14 +39,17 @@
 
 ## 📦 Data Structures
 15. **Lists**
+    - Ordered & Mutable sequences
     - List methods (`append`, `remove`, `sort`)
     - Nested lists (2D lists)
 16. **Tuples**
-    - Immutable sequences
+    - Ordered & Immutable sequences
+    - Tuple methods (`count`, `index`)
 17. **Sets**
-    - Unique values, set operations (`union`, `intersection`)
+    - Unordered & Unindexed Collection of unique elements
+    - Set methods (`union`, `intersection`)
 18. **Dictionaries**
-    - Key‑Value pairs, methods (`keys`, `values`, `items`)
+    - Key‑Value pairs, dictionaries methods (`keys`, `values`, `items`)
     - Nested dictionaries
 
 ---
