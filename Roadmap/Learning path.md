@@ -46,7 +46,7 @@
     - Ordered & Immutable sequences
     - Tuple methods (`count`, `index`)
 17. **Sets**
-    - Unordered & Unindexed Collection of unique elements
+    - Unordered collection of unique elements
     - Set methods (`union`, `intersection`)
 18. **Dictionaries**
     - Key‑Value pairs, dictionaries methods (`keys`, `values`, `items`)
@@ -57,7 +57,7 @@
 ## 📑 String Handling
 19. **String Indexing & Slicing**
 20. **String Methods**
-    - `upper()`, `lower()`, `split()`, `join()`, `replace()`
+    - `upper()`, `lower()`, `split()`, `join()`, `replace()` , `strip()`
 21. **String Formatting**
     - f-strings, `.format()`
 

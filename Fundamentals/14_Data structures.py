@@ -7,8 +7,12 @@
 fruits = ["apple", "banana", "cherry"]
 print(fruits)
 
-# Lists methods: there are many methods available for lists in Python, some of the most commonly used ones are:
+# Nested lists: Lists can contain other lists as elements, allowing for the creation of multi-dimensional arrays.
+#example:
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+print(matrix) # Output: [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
+# Lists methods: there are many methods available for lists in Python, some of the most commonly used ones are:
  # append(): Adds an item to the end of the list.
  #example:
 vegetables = ["carrot", "potato"]
@@ -59,6 +63,14 @@ print(numbers)  # Output: {1, 2, 3, 4}
 #4. Dictionary (dict): Used to store data in key-value pairs.
 person = {"name": "Ayush", "age": 19}
 print(person)                               
+
+# Nested dictionaries: Dictionaries can contain other dictionaries as values, allowing for the creation of complex data structures.
+#example:
+classroom = {
+    "student1": {"name": "Ayush", "age": 19},
+    "student2": {"name": "Priya", "age": 18}
+}
+print(classroom)
 
 # Dictionary methods: there are many methods available for dictionaries in Python, some of the most commonly used ones are:
 # keys(): Returns a list of all the keys in the dictionary.
