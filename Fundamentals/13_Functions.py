@@ -93,3 +93,20 @@ def factorial(n):
 
 # Example call
 print(factorial(5))   # Output: 120
+
+#-------------------------------
+# Scope of variables in functions
+#-------------------------------
+#1.Local variables are defined inside a function and can only be accessed within that function.
+def my_function():
+    local_var = "I am local"
+    print(local_var)
+
+my_function()  # Output: I am local 
+
+#2.Global variables are defined outside a function and can be accessed from anywhere in the program.
+global_var = "I am global"
+def my_function2():
+    print(global_var)
+
+my_function2()  # Output: I am global
