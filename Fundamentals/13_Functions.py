@@ -72,6 +72,17 @@ def greet(name="stranger"):
 greet()         # Output: hello stranger
 greet("harry")  # Output: hello harry
 
+#-------------------------------
+# Return values in functions
+#-------------------------------
+# A function can return a value using the 'return' statement, This is useful when we want to use the result of a function in another part of the program.
+# Example: A function that adds two numbers and returns the result
+
+def add_numbers(a, b):
+    return a + b
+
+result = add_numbers(5, 3)
+print(result)  # Output: 8
 
 # -------------------------------
 # RECURSION
