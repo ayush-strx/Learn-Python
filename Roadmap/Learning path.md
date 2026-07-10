@@ -52,7 +52,7 @@
 ---
 
 ## 📑 String Handling
-19. ** String Indexing & Slicing**
+19. **String Indexing & Slicing**
 20. **String Methods**
     - `upper()`, `lower()`, `split()`, `join()`, `replace()`
 21. **String Formatting**
