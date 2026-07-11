@@ -2,8 +2,6 @@
 
 This repository is where I **document everything I learn in Python** — from fundamentals to OOP, libraries, practice programs, mini projects, and my learning roadmap.  
 
-> This is not a tutorial for others, but a record of my growth and practice.
-
 ---
 
 ## 📚 What’s Inside
