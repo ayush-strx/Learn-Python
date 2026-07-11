@@ -11,7 +11,7 @@ This repository is where I **document everything I learn in Python** — from fu
 - **Libraries** – My experiments with `math`, `random`, `datetime`, etc.  
 - **Practice Programs** – Small exercises to reinforce what I’ve learned  
 - **Mini Projects** – Basic projects I create while learning  
-- **Notes & Roadmap** – My personal explanations, tips, and step-by-step learning plan  
+- **Notes & Roadmap** – Explanations and step-by-step learning plan  
 
 ---
 
