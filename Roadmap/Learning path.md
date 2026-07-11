@@ -80,13 +80,21 @@
 ## ⚠️ Error Handling
 27. **Errors vs Exceptions**
 28. **try & except**
-29. **finally block**
-30. **raise (custom exceptions)**
+29. **else**
+30. **finally block**
+31. **Common Exceptions**
+    - `ValueError`, `TypeError`, `IndexError`, `KeyError`, `ZeroDivisionError`,`FileNotFoundError`
+32. **raise (custom exceptions)**
 
 ---
 
 ## 🧰 Modules & Libraries (Basics)
-31. **Importing Modules**
+33. **Importing Modules**
     - `import`, `from ... import ...`
-32. **Built-in Modules**
+34. **Built-in Modules**
     - `math`, `random`, `datetime`, `os`
+35. **Package Management**
+    - pip
+    - Installing external libraries
+    - Updating packages
+    - Uninstalling packages
