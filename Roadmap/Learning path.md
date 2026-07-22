@@ -31,7 +31,7 @@
 9. **Defining & Calling Functions**
 10. **Parameters & Arguments**
 11. **Return Values**
-12. **Default & Keyword Arguments**
+12. **Default parameter & Keyword Arguments**
 13. **Recursion**
 14. **Scope (global vs local)**
 
